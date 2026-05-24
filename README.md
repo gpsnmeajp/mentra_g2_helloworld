@@ -1,4 +1,4 @@
-# Even G2 Hello World (Python)
+# G2 Hello World (Python)
 
 [日本語版はこちら](README_ja.md)
 
